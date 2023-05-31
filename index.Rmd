@@ -6,7 +6,7 @@ output:
 ---
 
 Welcome to my website!  
-I am a student at SUSTech, my name is jy.
+I am a student at SUSTech, my name is jy.   
 111
 
 Insert a figure:  
