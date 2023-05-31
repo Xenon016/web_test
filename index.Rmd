@@ -8,3 +8,6 @@ output:
 Welcome to my website!  
 I am a student at SUSTech, my name is jy.
 111
+
+Insert a figure:  
+<img src="figs/1211.jpg" alt="drawing" width="400"/>
